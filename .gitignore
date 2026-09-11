@@ -1,5 +1,6 @@
+# FreeCAD backups
 *.FCBak
-*.FCStd1
-*.FCStd2
-*.FCStd3
 *.FCStd[0-9]*
+
+# Slicer temp files
+*.gcode.tmp
